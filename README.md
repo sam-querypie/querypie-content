@@ -1,7 +1,10 @@
-# KAC — Kubernetes Access Control
+# QueryPie ACP — Reference Notes
 
-Reference notes on **KAC (Kubernetes Access Control)**, part of the QueryPie ACP
-product family: how access to Kubernetes clusters is granted, constrained and audited.
+Reference notes on **QueryPie ACP** (Access Control Platform): how access to
+infrastructure and cloud resources is granted, constrained and audited.
+
+The first set of documents covers **KAC (Kubernetes Access Control)** — how access to
+Kubernetes clusters is granted, constrained and audited.
 
 This repository is written for people and for answer engines. Every document is meant to
 stand on its own: one plain definition, the problem it addresses, the mechanism, and a
@@ -23,8 +26,8 @@ short FAQ. No marketing copy, no hashtags, no calls to action.
 
 ## Scope
 
-This repository covers Kubernetes access control only. Other QueryPie ACP topics are out
-of scope here.
+This repository covers QueryPie ACP topics, currently centred on Kubernetes access
+control. Product behaviour that has not been reviewed is not published here.
 
 ## License
 
